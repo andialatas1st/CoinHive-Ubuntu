@@ -1,0 +1,2 @@
+# CoinHive-Ubuntu
+CoinHive
